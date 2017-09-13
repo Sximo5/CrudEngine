@@ -17,13 +17,11 @@ Initial Class on your Controller
 
 ### Simple Usage
 ```
-	function index(  Request $request  )
-	{
-
-		$sximo = new Sclass();
-		$this->data['table'] =  $sximo->table('employees')->render();
-
-		return view('table',$this->data);
-	}
+function index(  Request $request  )
+{
+	$sximo = new Sclass();
+	$this->data['table'] =  $sximo->table('employees')->render();
+	return view('table',$this->data);
+}
 ```  
 

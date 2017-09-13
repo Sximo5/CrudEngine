@@ -14,3 +14,16 @@ Initial Class on your Controller
     $sximo = new Sclass();
   }  
 ```
+
+### Simple Usage
+```
+	function index(  Request $request  )
+	{
+
+		$sximo = new Sclass();
+		$this->data['table'] =  $sximo->table('employees')->render();
+
+		return view('table',$this->data);
+	}
+```  
+

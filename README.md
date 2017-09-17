@@ -2,7 +2,7 @@
 CrudEngine is a library that makes you  easier to build and maintenance web application . simple lines of code and you can create a full stable CRUD with nice views. A completely automatic system that even a newbie in PHP can work with! 
 
 
-### Quick CRUD in Line Code
+### Full CRUD in a few line code
 Initial Class on your Controller
 ```
 function index(  Request $request  )

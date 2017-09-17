@@ -13,7 +13,7 @@ function index(  Request $request  )
 }
 ```
 
-View [example](https://crudengine.sximo5.net/)  or read [docs](https://github.com/Sximo5/Crud-Engine-Laravel/wiki) 
+View [More example](https://crudengine.sximo5.net/)  or read [documentation](https://github.com/Sximo5/Crud-Engine-Laravel/wiki) 
 
 
 ***

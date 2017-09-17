@@ -13,6 +13,20 @@ function index(  Request $request  )
 }
 ```
 
+
+### Requirement & Installation
+To make work `CrudEngine` work with laravel , you need to make sure its meet with minimum requirment
+
+#### Server & scripts
+* Laravel framework version 5.2 or higher
+
+#### Installation
+
+* Extract `CrudEngine` zip and copy all folder and files into your current laravel
+* `dump-autoload` via composer
+
+That's it . your `CrudEngine` is ready to use 
+
 View [More example](https://crudengine.sximo5.net/)  or read [documentation](https://github.com/Sximo5/Crud-Engine-Laravel/wiki) 
 
 

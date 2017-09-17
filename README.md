@@ -15,5 +15,17 @@ function index(  Request $request  )
 
 View [example](https://crudengine.sximo5.net/)  or read [docs](https://github.com/Sximo5/Crud-Engine-Laravel/wiki) 
 
+
+***
+
+
+### Features 
+
+* Full CRUD Ajax
+* Full CRUD DataTable
+* Custom Template Option
+* Supported forms | text , textarea , select , checkbox , radio , upload and more
+
+
  
 
